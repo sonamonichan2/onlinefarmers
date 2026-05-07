@@ -1,0 +1,47 @@
+li {
+    list-style-type: none;
+    text-align: right;
+    border: thin  solid #F3EFEF;
+    display: inline-block;
+    min-width: 15px;
+    min-height: 0px;
+    color: #F5EAEA;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bolder;
+    font-size: large;
+    line-height: 40px;
+    border-radius: 12px;
+    word-spacing: 1px;
+    border-spacing: 80% 69px;
+    margin-right: 8px;
+    padding-right: 42px;
+    margin-top: 3px;
+}
+header {
+    width: 100%;
+    height: 56px;
+    margin-top: 2px;
+    margin-left: 2px;
+    margin-bottom: 1px;
+    margin-right: 4px;
+    background-color: #33CE27;
+    color: #F0F0F0;
+    padding-bottom: 1px;
+    border-bottom-right-radius: 0px;
+}
+body {
+    background-color: #F1F0F0;
+    background-image: url('adminback.jpg');
+}
+
+
+ul {
+    text-align: right;
+    word-spacing: 41px;
+}
+header nav ul li
+{
+    color:white;
+}

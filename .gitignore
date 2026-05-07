@@ -1,0 +1,10 @@
+build/
+dist/
+target/
+*.class
+*.war
+*.jar
+nbproject/private/
+.idea/
+.vscode/
+.DS_Store
